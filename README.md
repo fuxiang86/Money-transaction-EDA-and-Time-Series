@@ -8,13 +8,15 @@ All data are supplied by Insidesherpa.com.
 The data is based on a series of money transaction in Austrialia for a quarter , August - October in 2018.
 There are some categories of customers' information
 
-![](/Sport%20Team_1.png)
+![](/Money%20Transaction%20by%20Date.png)
 
-![](/Sport%20Team_2.png)
+![](/Money%20Transaction%20by%20Age.png)
+
+![](/Money%20Transaction%20by%20Gender.png)
 
 And the Time Series models (ARIMA and SARIMAX) were used for prediction of money transaction
 
-
+![](/ARIMA.png)
 
 #### Findings 
  * Younger person use money transation more frequently in each month;
@@ -22,4 +24,4 @@ And the Time Series models (ARIMA and SARIMAX) were used for prediction of money
  * Monday, Wednesday and Friday and the peak time for money transaction.
  * The transaction has a weekly period that can be predicted by SARIMAX model. 
 
-![](/Sport%20Team_3.png)
+![](/SARIMAX.png)
